@@ -90,7 +90,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `0-binary_tree_node.c`
@@ -136,7 +136,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `1-binary_tree_insert_left.c`
@@ -182,7 +182,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `2-binary_tree_insert_right.c`
@@ -238,7 +238,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `3-binary_tree_delete.c`
@@ -290,7 +290,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `4-binary_tree_is_leaf.c`
@@ -342,7 +342,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `5-binary_tree_is_root.c`
@@ -404,7 +404,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `6-binary_tree_preorder.c`
@@ -466,7 +466,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `7-binary_tree_inorder.c`
@@ -528,7 +528,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `8-binary_tree_postorder.c`
@@ -580,7 +580,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `9-binary_tree_height.c`
@@ -632,7 +632,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `10-binary_tree_depth.c`
@@ -684,7 +684,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `11-binary_tree_size.c`
@@ -736,7 +736,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `12-binary_tree_leaves.c`
@@ -788,7 +788,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `13-binary_tree_nodes.c`
@@ -846,7 +846,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `14-binary_tree_balance.c`
@@ -899,7 +899,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `15-binary_tree_is_full.c`
@@ -969,7 +969,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `16-binary_tree_is_perfect.c`
@@ -1231,7 +1231,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**-   GitHub repository:  `binary_trees`
+**Repo:**-   GitHub repository:  `binary_trees`
 
 - File:  `101-binary_tree_levelorder.c`
 
@@ -1311,7 +1311,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `102-binary_tree_is_complete.c`
@@ -1372,7 +1372,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `103-binary_tree_rotate_left.c`
@@ -1433,7 +1433,7 @@ alex@/tmp/binary_trees$
 
 ````
 
-**REpo:**
+**Repo:**
 
 - GitHub repository:  `binary_trees`
 - File:  `104-binary_tree_rotate_right.c`
